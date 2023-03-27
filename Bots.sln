@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizBL", "src\QuizBL\QuizBL.csproj", "{76EACEB4-8968-4810-9EFC-F03B21800903}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotTelegram", "src\BotTelegram\BotTelegram.csproj", "{BEACCC0E-CAFC-4C65-9F48-7F557CF7CA9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VkontakteBot", "src\VkontakteBot\VkontakteBot.csproj", "{C308EEC4-5131-47E3-8F96-BA7688527F45}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EACEB4-8968-4810-9EFC-F03B21800903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EACEB4-8968-4810-9EFC-F03B21800903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EACEB4-8968-4810-9EFC-F03B21800903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EACEB4-8968-4810-9EFC-F03B21800903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEACCC0E-CAFC-4C65-9F48-7F557CF7CA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEACCC0E-CAFC-4C65-9F48-7F557CF7CA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEACCC0E-CAFC-4C65-9F48-7F557CF7CA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEACCC0E-CAFC-4C65-9F48-7F557CF7CA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C308EEC4-5131-47E3-8F96-BA7688527F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C308EEC4-5131-47E3-8F96-BA7688527F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C308EEC4-5131-47E3-8F96-BA7688527F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C308EEC4-5131-47E3-8F96-BA7688527F45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
