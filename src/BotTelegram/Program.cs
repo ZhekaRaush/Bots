@@ -18,6 +18,7 @@ namespace BotTelegram
                 throw new ArgumentNullException(nameof(args));
             }
 
+            Console.Title = "~~~ ZhekaGameBot v-1.0.0 ~~~";
             Console.WriteLine("\n\n");
             Console.Write("\tНазвание бота: ");
             var name = Console.ReadLine();
