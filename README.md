@@ -54,3 +54,19 @@
   </a>
   <p align="center">Консольное приложение.</p>
 </p>
+10. Нажмите "Enter".
+<p align="center">
+  <a href="https://github.com/ZhekaRaush/Bots">
+    <img height="300" width="600" src="https://github.com/ZhekaRaush/Bots/blob/main/docs/instalstion-5.png">
+  </a>
+  <p align="center">Консольное приложение.</p>
+</p>
+11. Зайдите на страницу с вашим ботом и введите "/start" и отправьте сообщение.
+<p align="center">
+  <a href="https://github.com/ZhekaRaush/Bots">
+    <img height="300" width="600" src="https://github.com/ZhekaRaush/Bots/blob/main/docs/instalstion-6.png">
+  </a>
+  <p align="center">В данном примере я запустил бота в Vkontakte.</p>
+</p>
+12. Ваш бот настроен и готов задвать вопросы, пользуйтесь.
+## <a href="https://t.me/ZhekaGameBot">Мой телеграм бот</a>
