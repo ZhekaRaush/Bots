@@ -27,3 +27,30 @@
 </p>
 
 6. Запустите файл BotTelegram.exe
+<p align="center">
+  <a href="https://github.com/ZhekaRaush/Bots">
+    <img height="300" width="600" src="https://github.com/ZhekaRaush/Bots/blob/main/docs/instalstion-1.png">
+  </a>
+  <p align="center">Консольное приложение.</p>
+</p>
+7. Введите имя своего бота.
+<p align="center">
+  <a href="https://github.com/ZhekaRaush/Bots">
+    <img height="300" width="600" src="https://github.com/ZhekaRaush/Bots/blob/main/docs/instalstion-2.png">
+  </a>
+  <p align="center">Консольное приложение.</p>
+</p>
+8. Нажмите "Enter".
+<p align="center">
+  <a href="https://github.com/ZhekaRaush/Bots">
+    <img height="300" width="600" src="https://github.com/ZhekaRaush/Bots/blob/main/docs/instalstion-3.png">
+  </a>
+  <p align="center">Консольное приложение.</p>
+</p>
+9. Введите токен который вам присвоили для вашего ботв в контакте или который вы получили от BotFather.
+<p align="center">
+  <a href="https://github.com/ZhekaRaush/Bots">
+    <img height="300" width="600" src="https://github.com/ZhekaRaush/Bots/blob/main/docs/instalstion-4.png">
+  </a>
+  <p align="center">Консольное приложение.</p>
+</p>
